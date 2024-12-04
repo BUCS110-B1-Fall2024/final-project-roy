@@ -61,8 +61,3 @@ Steps:
 2) Decide whether or not to play the game or quit
 3) If playing, confirm the game runs, if not the game will quit.
 Expected Outcome: Game should start if player wants to play and should quit when player doesn't want to play
-| Step                 |Procedure             |Expected Results                   |
-|----------------------|:--------------------:|----------------------------------:|
-|  1                   | Run Counter Program  |GUI window appears with count = 0  |
-|  2                   | click count button   | display changes to count = 1      |
-etc...
